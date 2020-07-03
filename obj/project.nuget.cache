@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uikwIpIDZZg5hl5AqzB7jo8t1Y0dMTXJ3m9a69gG1yl70UkRsW/fSxn479XWlldeP2812xVBBCXtPV1ogNk9yA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stefa\\Documents\\Zadanie 0307\\Zadanie 0307.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stefa\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
+    "C:\\Users\\stefa\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
